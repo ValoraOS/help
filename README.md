@@ -1,6 +1,6 @@
 # Installing ValoraOS Linux Distribution
 
-Welcome to **Your Linux Distribution**! This guide will walk you through installing the operating system from a USB drive.
+Welcome to **ValoraOS Distribution**! This guide will walk you through installing the operating system from a USB drive.
 
 > ⚠️ **Warning:** Installing an operating system may erase data on your drive. Back up important files before continuing.
 
