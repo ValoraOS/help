@@ -1,4 +1,4 @@
-# Installing Your Linux Distribution
+# Installing ValoraOS Linux Distribution
 
 Welcome to **Your Linux Distribution**! This guide will walk you through installing the operating system from a USB drive.
 
