@@ -38,7 +38,7 @@ Before you begin, you'll need:
 * Rufus (Windows)
 * Ventoy
 * Fedora Media Writer
-* Iso Image 
+* Iso Image Writer from Bazaar
 
 ---
 
