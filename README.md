@@ -153,4 +153,4 @@ After logging in, consider:
 
 ---
 
-Need help? Open an issue on GitHub or visit the project's support channels.
+Need help? Contact Us Directly through Discord!
