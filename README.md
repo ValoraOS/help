@@ -76,9 +76,9 @@ Once the live environment loads:
 * Removes existing data on the selected drive.
 * Installs the system automatically.
 
-### Seperate Partitioning
+### Separate Partitioning
 * Uses existing partitions on the selected drive.
-* Installs the system on only that partiton
+* Installs the system on only that partition.
 ---
 
 ## 👤 Create Your Account
