@@ -3,6 +3,7 @@
 Welcome to **ValoraOS Distribution**! This guide will walk you through installing the operating system from a USB drive.
 
 > ⚠️ **Warning:** Installing an operating system may erase data on your drive. Back up important files before continuing.
+> ⚠️ **Warning:** First Booting Up ValoraOS on USB takes 2-3 minutes, please dont shut off computer while installing
 
 ---
 
